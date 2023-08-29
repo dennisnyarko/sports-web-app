@@ -18,6 +18,7 @@ const SpecialOffer = () => {
          the loftiest expectations. Your journey with us is nothing short of exceptional</p>
         <div className="mt-11">
           <Button label="View details" />
+          <Button label="Learn more" borderColor="border-slate-gray" textColor="text-slate-gray"/>
         </div>
       </div>
 
