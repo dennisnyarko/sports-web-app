@@ -18,7 +18,7 @@ const SpecialOffer = () => {
         <p className="mt-6 lg:max-w-lg info-text">Navigate a realm of possibilities designed to fulfill your unique desires, surpassing
          the loftiest expectations. Your journey with us is nothing short of exceptional</p>
         <div className="mt-11 flex flex-wrap gap-4">
-          <Button label="Shop now" iconURL={arrowRight} />
+          <Button label="View details" iconURL={arrowRight} />
           <Button label="Learn more" backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray"/>
         </div>
       </div>
